@@ -1,4 +1,4 @@
-# GlobalHealthAnalysis
+# Global Health Analysis
 A project where I used Pandas, PandasGUI, and SciPy to conduct statistical analyses on a global health dataset found on Kaggle
 PROJECT: Analyzing Mortality Rates of Various Countries
 
@@ -6,7 +6,7 @@ OBJECTIVE: To investigate the relationship between income per capita and mortali
 
 TOOLS: Python, Pandas, PandasGUI, NumPy, SciPy, Kaggle, VSCode
 
-DATASET: https://www.kaggle.com/datasets/malaiarasugraj/global-health-statistics
+DATASET: https://www.kaggle.com/datasets/malaiarasugraj/global-health-statistics (NOTE: The CSV is not uploaded to the GitHub due to its large size. In order to access it, you'll have to use the URL here to get to the Kaggle page.)
 
 STEPS:
 
