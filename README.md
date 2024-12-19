@@ -3,7 +3,7 @@
 
 Caleb Picone
 
-For my first project in data analysis, I decided to use a global health dataset found on Kaggle, which the full dataset can be found here https://www.kaggle.com/datasets/malaiarasugraj/global-health-statistics/data. Due to it's large size, I decided it would be more manageable to narrow down the data analysis to just the CSV entries for the USA from 2020 to 2024. 
+For my first project in data analysis, I decided to use a global health dataset found on Kaggle, which the full dataset can be found here https://www.kaggle.com/datasets/malaiarasugraj/global-health-statistics/data. Due to its large size, I decided it would be more manageable to narrow down the data analysis to just the CSV entries for the USA from 2020 to 2024. 
 
 
 ## The Dataset
