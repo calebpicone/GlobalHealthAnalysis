@@ -40,7 +40,28 @@ Using the subset of USA data, these are some questions that this project aims to
 
 ## Dataset Description
 
-The 'USA_Health_Data_2020_2024.csv' has 22 columns and 10,035 rows. 
+Firstly, it's important to clean up the CSV dataset. This was done with the following Python code using Pandas:
+
+```
+# Count null values
+print(df.isnull().sum())
+
+# Drop rows with missing values
+df = df.dropna()
+
+# Drop columns with missing values
+df = df.dropna(axis = 1)
+
+# Remove duplicate rows
+df = df.drop_duplicates()
+
+# Row and column counting
+num_rows, num_columns = df.shape
+print(f'# of rows: {num_rows}')
+print(f'# of columns: {num_columns}')
+```
+
+Fortunately, the CSV had no null values that needed to be cleaned or converted, so before and after clean up the 'USA_Health_Data_2020_2024.csv' has 22 columns and 10,035 rows. 
 
 ![USa_Health_Data_2020_2024_Columns](https://github.com/user-attachments/assets/7a1ce4d7-b57a-4d51-b904-37dde60a225f)
 
