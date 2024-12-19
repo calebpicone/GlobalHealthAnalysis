@@ -63,10 +63,22 @@ print(f'# of columns: {num_columns}')
 
 Fortunately, the CSV had no null values that needed to be cleaned or converted, so before and after clean up the 'USA_Health_Data_2020_2024.csv' has 22 columns and 10,035 rows. 
 
-![USa_Health_Data_2020_2024_Columns](https://github.com/user-attachments/assets/7a1ce4d7-b57a-4d51-b904-37dde60a225f)
+![USA_Health_Data_2020_2024_Columns](https://github.com/user-attachments/assets/57ae1017-a5c6-47de-8c0d-83ca11b6509f)
+
 
 # Answering the Project Questions
 
-After narrowing down the data from the original dataset, and cleaning the subset of data, it's time to find the answers to the questions mentioned above.
+After narrowing down the data from the original dataset, and cleaning the subset of data, it's time to find the answers to the questions mentioned above. PandasGUI was used to analyze this data and find the answers to these questions.
 
 ## 1. Which diseases are most prevelant in the dataset?
+
+The following settings were in PandaGUI's 'Reshaper' tool:
+
+![PandasGUI_Disease_Count_Pivot](https://github.com/user-attachments/assets/3511f271-a838-4734-a699-4979fa317a28)
+
+Using these settings, this was the resulting output:
+
+![PandasGUI_Disease_Count_1](https://github.com/user-attachments/assets/032bf5f2-73ea-4a63-9d52-70f41845fedc)
+![PandasGUI_Disease_Count_2](https://github.com/user-attachments/assets/43c380c3-2056-4778-8171-b00992500949)
+
+Looking at this output, it can be seen that 'Alzheimer's Disease' has the most counts in the subset CSV.
