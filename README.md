@@ -65,3 +65,8 @@ Fortunately, the CSV had no null values that needed to be cleaned or converted, 
 
 ![USa_Health_Data_2020_2024_Columns](https://github.com/user-attachments/assets/7a1ce4d7-b57a-4d51-b904-37dde60a225f)
 
+## Answering the Project Questions
+
+After narrowing down the data from the original dataset, and cleaning the subset of data, it's time to find the answers to the questions mentioned above.
+
+# 1. Which diseases are most prevelant in the dataset?
