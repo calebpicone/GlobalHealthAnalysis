@@ -81,26 +81,5 @@ Using these settings, this was the resulting output:
 ![PandasGUI_Disease_Count_1](https://github.com/user-attachments/assets/032bf5f2-73ea-4a63-9d52-70f41845fedc)
 ![PandasGUI_Disease_Count_2](https://github.com/user-attachments/assets/43c380c3-2056-4778-8171-b00992500949)
 
-Looking at this output, it can be seen that 'Alzheimer's Disease' has the most counts in the subset CSV. The disease listed from most to least occurances is as follows:
-
-*Alzheimer's        548
-*Leprosy            543
-*Cholera            539
-*Polio              522
-*COVID-19           520
-*Malaria            516
-*Diabetes           513
-*Zika               506
-*Rabies             505
-*Ebola              503
-*Tuberculosis       500
-*Asthma             498
-*Hepatitis          496
-*Dengue             491
-*HIV/AIDS           487
-*Measles            481
-*Parkinson's        477
-*Hypertension       467
-*Influenza          464
-*Cancer             459
+Looking at this output, it can be seen that 'Alzheimer's Disease' has the most counts in the subset CSV.
 
