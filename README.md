@@ -81,5 +81,17 @@ Using these settings, this was the resulting output:
 ![PandasGUI_Disease_Count_1](https://github.com/user-attachments/assets/032bf5f2-73ea-4a63-9d52-70f41845fedc)
 ![PandasGUI_Disease_Count_2](https://github.com/user-attachments/assets/43c380c3-2056-4778-8171-b00992500949)
 
-Looking at this output, it can be seen that 'Alzheimer's Disease' has the most counts in the subset CSV.
+Looking at this output, it can be seen that 'Alzheimer's Disease' has the most counts in the subset CSV with a value of 548.
 
+## 2. Which diseases have the highest mortality rates?
+
+The following settings were in PandaGUI's 'Reshaper' tool:
+
+![PandasGUI_Mortality_Rate_Max](https://github.com/user-attachments/assets/000e5c5e-a85d-4f2a-a3a7-e9e58e818d90)
+
+Using these settings, this was the resulting output:
+
+![PandasGUI_Mortality_Rate_Max_1](https://github.com/user-attachments/assets/289f00da-5276-4e73-8139-cb74e42a3b6d)
+![PandasGUI_Mortality_Rate_Max_2](https://github.com/user-attachments/assets/ca1cf04e-7112-42e0-803c-ee05f999a883)
+
+Looking at this output, it can be seen that 'Asthma,' 'Hypertension,' 'Malaria,' and 'Parkinson's Disease' all have mortality rates of 10.0 (10%). 
