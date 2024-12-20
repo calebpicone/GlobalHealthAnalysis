@@ -83,24 +83,24 @@ Using these settings, this was the resulting output:
 
 Looking at this output, it can be seen that 'Alzheimer's Disease' has the most counts in the subset CSV. The disease listed from most to least occurances is as follows:
 
-Alzheimer's        548
-Leprosy            543
-Cholera            539
-Polio              522
-COVID-19           520
-Malaria            516
-Diabetes           513
-Zika               506
-Rabies             505
-Ebola              503
-Tuberculosis       500
-Asthma             498
-Hepatitis          496
-Dengue             491
-HIV/AIDS           487
-Measles            481
-Parkinson's        477
-Hypertension       467
-Influenza          464
-Cancer             459
+*Alzheimer's        548
+*Leprosy            543
+*Cholera            539
+*Polio              522
+*COVID-19           520
+*Malaria            516
+*Diabetes           513
+*Zika               506
+*Rabies             505
+*Ebola              503
+*Tuberculosis       500
+*Asthma             498
+*Hepatitis          496
+*Dengue             491
+*HIV/AIDS           487
+*Measles            481
+*Parkinson's        477
+*Hypertension       467
+*Influenza          464
+*Cancer             459
 
