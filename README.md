@@ -31,10 +31,6 @@ Using the subset of USA data, these are some questions that this project aims to
 
 1. Which diseases are most prevelant in the dataset?
 2. Which diseases have the highest mortality rates?
-3. Are there any correlations between male mortality rates?
-4. Are there any correlations between female mortality rates?
-5. Are there any correlations between other gender mortality rates?
-
 
 ## Dataset Description
 
